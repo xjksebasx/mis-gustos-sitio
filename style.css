@@ -1,0 +1,27 @@
+.viajes_mainDiv{
+    border: 1px solid rgba(34, 0, 255, 0.881);
+}
+.viajes_mainDiv img{
+    width:100%;
+}
+.viajes_mainDiv h5 , .viajes_mainDiv p{
+    margin:20px;
+}
+.movie_head{
+    font-size: 20px;
+    padding:6px 22px;
+    border-radius:10px;
+    margin-bottom: 15px;
+}
+.movie_head i{
+    float:right;
+}
+.movie_text span{
+    color:rgb(255, 234, 0);
+}
+.libros{
+    margin-bottom: 20px;
+}
+#contacto iframe{
+    width: 100%;
+}
